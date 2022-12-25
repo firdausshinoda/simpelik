@@ -1,0 +1,5 @@
+masuk ke localhost/ci_pelayanan_publik/sistem
+username pemkottegal
+password 123456
+
+pilih menu peta

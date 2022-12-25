@@ -1,0 +1,4 @@
+<link href="<?php echo base_url('assets/materialize/style_index/style.min.css');?>" type="text/css" rel="stylesheet" media="screen,projection">
+<a href="javascript:void(0);" class="brand-logo">
+  <img class="responsive-img" src="<?php echo base_url('assets/document/style/img/icon_1.png')?>" alt="Pelayanan Publik" style="width:60px;height:60px;">
+</a>
